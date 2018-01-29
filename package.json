@@ -1,0 +1,22 @@
+{
+  "name": "webpack3-postcss-with-globals",
+  "version": "1.0.0",
+  "description": "A demo of how to import bootstrap in webpack 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baflo",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "css-loader": "^0.28.9",
+    "file-loader": "^0.10.1",
+    "postcss-import": "^11.0.0",
+    "postcss-loader": "^2.0.10",
+    "purecss": "^1.0.0",
+    "style-loader": "^0.14.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
